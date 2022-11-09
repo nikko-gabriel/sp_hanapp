@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2022.11.9)  9 NOV 2022 13:14
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2022.11.8)  9 NOV 2022 16:00
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -11,9 +11,12 @@ LaTeX Warning: \include should only be used after \begin{document} on input lin
 e 3.
 
 (preamble.tex
-(C:\Users\asus\AppData\Local\Programs\MiKTeX\tex/latex/base\report.cls
+(C:\Users\Emmanuel Guides\AppData\Local\Programs\MiKTeX\tex/latex/base\report.c
+ls
 Document Class: report 2021/10/04 v1.4n Standard LaTeX document class
-(C:\Users\asus\AppData\Local\Programs\MiKTeX\tex/latex/base\size12.clo
+
+(C:\Users\Emmanuel Guides\AppData\Local\Programs\MiKTeX\tex/latex/base\size12.c
+lo
 File: size12.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
 )
 \c@part=\count185
@@ -29,13 +32,16 @@ File: size12.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
 \belowcaptionskip=\skip48
 \bibindent=\dimen138
 )
-(C:\Users\asus\AppData\Local\Programs\MiKTeX\tex/latex/pdfpages\pdfpages.sty
+(C:\Users\Emmanuel Guides\AppData\Local\Programs\MiKTeX\tex/latex/pdfpages\pdfp
+ages.sty
 Package: pdfpages 2022/10/09 v0.5w Insert pages of external PDF documents (AM)
 
-(C:\Users\asus\AppData\Local\Programs\MiKTeX\tex/latex/base\ifthen.sty
+(C:\Users\Emmanuel Guides\AppData\Local\Programs\MiKTeX\tex/latex/base\ifthen.s
+ty
 Package: ifthen 2022/04/13 v1.1d Standard LaTeX ifthen package (DPC)
 )
-(C:\Users\asus\AppData\Local\Programs\MiKTeX\tex/latex/tools\calc.sty
+(C:\Users\Emmanuel Guides\AppData\Local\Programs\MiKTeX\tex/latex/tools\calc.st
+y
 Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
 \calc@Acount=\count194
 \calc@Bcount=\count195
@@ -48,29 +54,35 @@ LaTeX Info: Redefining \addtolength on input line 81.
 \calc@Ccount=\count196
 \calc@Cskip=\skip51
 )
-(C:\Users\asus\AppData\Local\Programs\MiKTeX\tex/latex/eso-pic\eso-pic.sty
+(C:\Users\Emmanuel Guides\AppData\Local\Programs\MiKTeX\tex/latex/eso-pic\eso-p
+ic.sty
 Package: eso-pic 2020/10/14 v3.0a eso-pic (RN)
 \ESO@tempdima=\dimen141
 \ESO@tempdimb=\dimen142
 
-(C:\Users\asus\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
+(C:\Users\Emmanuel Guides\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyv
+al.sty
 Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
 \KV@toks@=\toks16
 )
-(C:\Users\asus\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolor.sty
+(C:\Users\Emmanuel Guides\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolor
+.sty
 Package: xcolor 2022/06/12 v2.14 LaTeX color extensions (UK)
 
-(C:\Users\asus\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cfg
+(C:\Users\Emmanuel Guides\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\
+color.cfg
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package xcolor Info: Driver file: pdftex.def on input line 227.
 
-(C:\Users\asus\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
+(C:\Users\Emmanuel Guides\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\
+pdftex.def
 File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
 \stockwidth=\dimen143
 \stockheight=\dimen144
-) (C:\Users\asus\AppData\Local\Programs\MiKTeX\tex/latex/graphics\mathcolor.ltx
 )
+(C:\Users\Emmanuel Guides\AppData\Local\Programs\MiKTeX\tex/latex/graphics\math
+color.ltx)
 Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1353.
 Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1357.
 Package xcolor Info: Model `RGB' extended on input line 1369.
@@ -80,16 +92,21 @@ Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1373.
 Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1374.
 Package xcolor Info: Model `Gray' substituted by `gray' on input line 1375.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1376.
-)) (C:\Users\asus\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
+))
+(C:\Users\Emmanuel Guides\AppData\Local\Programs\MiKTeX\tex/latex/graphics\grap
+hicx.sty
 Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
-(C:\Users\asus\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
+
+(C:\Users\Emmanuel Guides\AppData\Local\Programs\MiKTeX\tex/latex/graphics\grap
+hics.sty
 Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
 
-(C:\Users\asus\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
+(C:\Users\Emmanuel Guides\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig
+.sty
 Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
 )
-(C:\Users\asus\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.cf
-g
+(C:\Users\Emmanuel Guides\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\
+graphics.cfg
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: pdftex.def on input line 107.
@@ -101,7 +118,8 @@ Package graphics Info: Driver file: pdftex.def on input line 107.
 \AM@pageheight=\dimen148
 \AM@fboxrule=\dimen149
 
-(C:\Users\asus\AppData\Local\Programs\MiKTeX\tex/latex/pdfpages\pppdftex.def
+(C:\Users\Emmanuel Guides\AppData\Local\Programs\MiKTeX\tex/latex/pdfpages\pppd
+ftex.def
 File: pppdftex.def 2022/10/09 v0.5w Pdfpages driver for pdfTeX (AM)
 )
 \pdfpages@includegraphics@status=\count197
@@ -112,7 +130,8 @@ File: pppdftex.def 2022/10/09 v0.5w Pdfpages driver for pdfTeX (AM)
 \c@AM@survey=\count199
 \AM@templatesizebox=\box52
 )
-(C:\Users\asus\AppData\Local\Programs\MiKTeX\tex/latex/apacite\apacite.sty
+(C:\Users\Emmanuel Guides\AppData\Local\Programs\MiKTeX\tex/latex/apacite\apaci
+te.sty
 Package: apacite 2013/07/21 v6.03 APA citation
 \c@BibCnt=\count266
 \bibleftmargin=\skip52
@@ -121,24 +140,30 @@ Package: apacite 2013/07/21 v6.03 APA citation
 \bibitemsep=\skip55
 \biblabelsep=\skip56
 )
-(C:\Users\asus\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsmath.sty
+(C:\Users\Emmanuel Guides\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsma
+th.sty
 Package: amsmath 2022/04/08 v2.17n AMS math features
 \@mathmargin=\skip57
 
 For additional information on amsmath, use the `?' option.
-(C:\Users\asus\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amstext.sty
+
+(C:\Users\Emmanuel Guides\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amste
+xt.sty
 Package: amstext 2021/08/26 v2.01 AMS text
 
-(C:\Users\asus\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen.sty
+(C:\Users\Emmanuel Guides\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsge
+n.sty
 File: amsgen.sty 1999/11/30 v2.0 generic functions
 \@emptytoks=\toks19
 \ex@=\dimen150
 ))
-(C:\Users\asus\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsbsy.sty
+(C:\Users\Emmanuel Guides\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsbs
+y.sty
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
 \pmbraise@=\dimen151
 )
-(C:\Users\asus\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsopn.sty
+(C:\Users\Emmanuel Guides\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsop
+n.sty
 Package: amsopn 2022/04/08 v2.04 operator names
 )
 \inf@bad=\count267
@@ -189,7 +214,8 @@ LaTeX Info: Redefining \Relbar on input line 971.
 LaTeX Info: Redefining \[ on input line 2953.
 LaTeX Info: Redefining \] on input line 2954.
 )
-(C:\Users\asus\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amsfonts.sty
+(C:\Users\Emmanuel Guides\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amsf
+onts.sty
 Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
 \symAMSa=\mathgroup4
 \symAMSb=\mathgroup5
@@ -197,21 +223,23 @@ LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
 LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
 )
-(C:\Users\asus\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amssymb.sty
+(C:\Users\Emmanuel Guides\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amss
+ymb.sty
 Package: amssymb 2013/01/14 v3.01 AMS font symbols
 )
-(C:\Users\asus\AppData\Local\Programs\MiKTeX\tex/latex/tools\verbatim.sty
+(C:\Users\Emmanuel Guides\AppData\Local\Programs\MiKTeX\tex/latex/tools\verbati
+m.sty
 Package: verbatim 2020-07-07 v1.5u LaTeX2e package for verbatim enhancements
 \every@verbatim=\toks24
 \verbatim@line=\toks25
 \verbatim@in@stream=\read2
 )
-(C:\Users\asus\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty
+(C:\Users\Emmanuel Guides\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty
 \Urlmuskip=\muskip17
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 ))
-(C:\Users\asus\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdft
-ex.def
+(C:\Users\Emmanuel Guides\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3b
+ackend-pdftex.def
 File: l3backend-pdftex.def 2022-10-26 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count279
 \l__pdf_internal_box=\box55
@@ -239,8 +267,8 @@ LaTeX Font Info:    ... okay on input line 6.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 6.
 LaTeX Font Info:    ... okay on input line 6.
 
-(C:\Users\asus\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mki
-i
+(C:\Users\Emmanuel Guides\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\s
+upp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count280
 \scratchdimen=\dimen159
@@ -254,57 +282,61 @@ i
 \makeMPintoPDFobject=\count285
 \everyMPtoPDFconversion=\toks27
 )
-(C:\Users\asus\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-ba
-se.sty
+(C:\Users\Emmanuel Guides\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\
+epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 85.
 
-(C:\Users\asus\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.cf
-g
+(C:\Users\Emmanuel Guides\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epst
+opdf-sys.cfg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
-(C:\Users\asus\AppData\Local\Programs\MiKTeX\tex/latex/pdflscape\pdflscape.sty
+(C:\Users\Emmanuel Guides\AppData\Local\Programs\MiKTeX\tex/latex/pdflscape\pdf
+lscape.sty
 Package: pdflscape 2019/12/05 v0.12 Display of landscape pages in PDF (HO)
 
-(C:\Users\asus\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
+(C:\Users\Emmanuel Guides\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex
+.sty
 Package: iftex 2022/02/03 v1.0f TeX engine tests
 )
-(C:\Users\asus\AppData\Local\Programs\MiKTeX\tex/latex/graphics\lscape.sty
+(C:\Users\Emmanuel Guides\AppData\Local\Programs\MiKTeX\tex/latex/graphics\lsca
+pe.sty
 Package: lscape 2020/05/28 v3.02 Landscape Pages (DPC)
 )
 Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
 )
 \c@maskedRefs=\count286
 
-(C:\Users\asus\AppData\Local\Programs\MiKTeX\tex/latex/apacite\english.apc
+(C:\Users\Emmanuel Guides\AppData\Local\Programs\MiKTeX\tex/latex/apacite\engli
+sh.apc
 File: english.apc 2013/07/21 v6.03 apacite language file
 LaTeX Info: Redefining \BPBI on input line 129.
 LaTeX Info: Redefining \BHBI on input line 130.
 )
 \openout2 = `title_page.aux'.
 
+ (title_page.tex [1
 
-(title_page.tex [1
 
-
-{C:/Users/asus/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}])
+{C:/Users/Emmanuel Guides/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}])
 \openout2 = `abstract.aux'.
 
  (abstract.tex
 LaTeX Font Info:    Trying to load font information for U+msa on input line 10.
 
 
-(C:\Users\asus\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
+(C:\Users\Emmanuel Guides\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa
+.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
 LaTeX Font Info:    Trying to load font information for U+msb on input line 10.
 
 
-(C:\Users\asus\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
+(C:\Users\Emmanuel Guides\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb
+.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-)
-[1
+) [1
 
 
 
@@ -466,25 +498,25 @@ LaTeX Warning: There were undefined references.
  ) 
 Here is how much of TeX's memory you used:
  4915 strings out of 475380
- 78320 string characters out of 2777244
+ 79863 string characters out of 2772016
  425223 words of memory out of 3000000
  26170 multiletter control sequences out of 15000+600000
  477518 words of font info for 59 fonts, out of 8000000 for 9000
  1143 hyphenation exceptions out of 8191
  77i,10n,81p,357b,295s stack positions out of 10000i,1000n,20000p,200000b,80000s
-{C:/Users/asus/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/cm-super/cm-supe
-r-ts1.enc}<C:/Users/asus/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfo
-nts/cm/cmbx12.pfb><C:/Users/asus/AppData/Local/Programs/MiKTeX/fonts/type1/publ
-ic/amsfonts/cm/cmcsc10.pfb><C:/Users/asus/AppData/Local/Programs/MiKTeX/fonts/t
-ype1/public/amsfonts/cm/cmmi12.pfb><C:/Users/asus/AppData/Local/Programs/MiKTeX
-/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/asus/AppData/Local/Programs
-/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/asus/AppData/Local/Pr
-ograms/MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb><C:/Users/asus/AppData/
-Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt12.pfb><C:/Users/asus/
-AppData/Local/Programs/MiKTeX/fonts/type1/public/cm-super/sfrm1200.pfb>
-Output written on main.pdf (18 pages, 143873 bytes).
+ <C:\Users\Emmanuel Guides\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/d
+pi600\tcrm1200.pk><C:/Users/Emmanuel Guides/AppData/Local/Programs/MiKTeX/fonts
+/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/Emmanuel Guides/AppData/Local/Pr
+ograms/MiKTeX/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Users/Emmanuel Gui
+des/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:
+/Users/Emmanuel Guides/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfont
+s/cm/cmr12.pfb><C:/Users/Emmanuel Guides/AppData/Local/Programs/MiKTeX/fonts/ty
+pe1/public/amsfonts/cm/cmr8.pfb><C:/Users/Emmanuel Guides/AppData/Local/Program
+s/MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb><C:/Users/Emmanuel Guides/Ap
+pData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
+Output written on main.pdf (18 pages, 137223 bytes).
 PDF statistics:
- 104 PDF objects out of 1000 (max. 8388607)
+ 103 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  6 words of extra memory for PDF output out of 10000 (max. 10000000)
 
