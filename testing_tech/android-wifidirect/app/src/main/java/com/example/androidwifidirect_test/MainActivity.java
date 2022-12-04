@@ -22,12 +22,12 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void initEverything(){
-        btnOnOff = (Button) findViewById(R.id.onOff);
-        btnDiscover = (Button) findViewById(R.id.discover);
-        btnSend = (Button) findViewById(R.id.sendButton);
-        listView = (ListView) findViewById(R.id.peerListView);
-        read_msg_box = (TextView) findViewById(R.id.readMsg);
-        connectionStatus = (TextView) findViewById(R.id.connectionStatus);
-        writeMsg = (EditText) findViewById(R.id.writeMsg);
+        btnOnOff = findViewById(R.id.onOff);
+        btnDiscover = findViewById(R.id.discover);
+        btnSend = findViewById(R.id.sendButton);
+        listView = findViewById(R.id.peerListView);
+        read_msg_box = findViewById(R.id.readMsg);
+        connectionStatus = findViewById(R.id.connectionStatus);
+        writeMsg = findViewById(R.id.writeMsg);
     }
 }
