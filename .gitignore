@@ -11,3 +11,5 @@
 *.cb
 *.cb2
 .*.lb
+/node_modules
+/testing_tech/New folder

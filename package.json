@@ -4,5 +4,10 @@
   "main": "index.js",
   "repository": "https://github.com/nikko-gabriel/sp_hanapp.git",
   "author": "Emmanuel Guides <eguides@up.edu.ph>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.20.1",
+    "express": "^4.18.2",
+    "wrtc": "^0.4.7"
+  }
 }
