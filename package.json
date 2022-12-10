@@ -1,0 +1,8 @@
+{
+  "name": "sp_hanapp",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/nikko-gabriel/sp_hanapp.git",
+  "author": "Emmanuel Guides <eguides@up.edu.ph>",
+  "license": "MIT"
+}
