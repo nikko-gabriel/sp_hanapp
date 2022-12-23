@@ -14,28 +14,6 @@ Illegal, another \bibstyle command---line 11 of file main.aux
  : \bibstyle
  :          {apacite}
 I'm skipping whatever remains of this command
-<<<<<<< Updated upstream
-Reallocating 'name_of_file' (item size: 1) to 14 items.
-Reallocating 'glb_str_end' (item size: 4) to 20 items.
-Reallocating 'glb_str_ptr' (item size: 4) to 20 items.
-Reallocating 'global_strs' (item size: 1) to 4000000 items.
-Reallocating 'singl_function' (item size: 4) to 100 items.
-Reallocating 'wiz_functions' (item size: 4) to 6000 items.
-Reallocating 'singl_function' (item size: 4) to 100 items.
-Reallocating 'singl_function' (item size: 4) to 100 items.
-Reallocating 'wiz_functions' (item size: 4) to 9000 items.
-Reallocating 'singl_function' (item size: 4) to 100 items.
-Database file #1: sp_references.bib
-Warning--I didn't find a database entry for "kartch:2000:ERA"
-Warning--I didn't find a database entry for "fedkiw:2001:VSO"
-Warning--I didn't find a database entry for "Park:2006:DSI"
-Warning--I didn't find a database entry for "Pellacini:2005:LAH"
-Warning--I didn't find a database entry for "sako:2001:SSB"
-Warning--I didn't find a database entry for "yee:2000:SSA"
-Warning--I didn't find a database entry for "parke:1996:CFA"
-Warning--I didn't find a database entry for "Jobs95"
-Warning--I didn't find a database entry for "levoy:2000:TDM"
-=======
 Reallocated glb_str_ptr (elt_size=4) to 20 items from 10.
 Reallocated global_strs (elt_size=200001) to 20 items from 10.
 Reallocated glb_str_end (elt_size=4) to 20 items from 10.
@@ -46,47 +24,46 @@ Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Database file #1: myreferences.bib
->>>>>>> Stashed changes
 apacite.bst [2013/07/21 v6.03 APA bibliography style]
-You've used 3 entries,
+You've used 9 entries,
             6951 wiz_defined-function locations,
-            1314 strings with 11555 characters,
-and the built_in function-call counts, 6282 in all, are:
-= -- 775
-> -- 56
-< -- 307
-+ -- 314
-- -- 6
-* -- 406
-:= -- 1168
-add.period$ -- 13
-call.type$ -- 3
-change.case$ -- 51
+            1344 strings with 12642 characters,
+and the built_in function-call counts, 19305 in all, are:
+= -- 2472
+> -- 186
+< -- 817
++ -- 881
+- -- 18
+* -- 1171
+:= -- 3246
+add.period$ -- 43
+call.type$ -- 9
+change.case$ -- 160
 chr.to.int$ -- 0
-cite$ -- 6
-duplicate$ -- 150
-empty$ -- 233
-format.name$ -- 96
-if$ -- 1172
+cite$ -- 18
+duplicate$ -- 539
+empty$ -- 757
+format.name$ -- 308
+if$ -- 3762
 int.to.chr$ -- 0
-int.to.str$ -- 9
+int.to.str$ -- 27
 missing$ -- 0
-newline$ -- 83
-num.names$ -- 24
-pop$ -- 75
+newline$ -- 242
+num.names$ -- 76
+pop$ -- 383
 preamble$ -- 1
-purify$ -- 12
+purify$ -- 40
 quote$ -- 0
-skip$ -- 443
+skip$ -- 1331
 stack$ -- 0
-substring$ -- 331
-swap$ -- 98
-text.length$ -- 6
+substring$ -- 986
+swap$ -- 330
+text.length$ -- 41
 text.prefix$ -- 0
 top$ -- 1
-type$ -- 304
+type$ -- 1040
 warning$ -- 0
-while$ -- 33
+while$ -- 112
 width$ -- 0
-write$ -- 106
+write$ -- 308
 (There was 1 error message)
