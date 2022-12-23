@@ -1,8 +1,11 @@
 %   Filename    : main.tex
 %   Description : This is the main file for the LaTeX thesis proposal document template.
-\include{preamble}     
+\include{preamble}      
 \graphicspath{{figures/}}  %figures is the name of the folder containing images JPG or PNG
-
+\usepackage{indentfirst} %indents first paragraphs, will not work since
+\setlength{\parindent}{0pt} %this is here.
+\usepackage{setspace}
+\setstretch{1.15}
 \begin{document}
 \include{title_page}      %includes LaTeX source file for the Title Page 
 \include{abstract}        %includes the the Abstract page
@@ -21,9 +24,10 @@
 \include{chapter_3}               %LaTeX source file for Chapter 3: Methodology
 \include{chapter_4}               %LaTeX source file for Chapter 4: Preliminary Results/System Prototype
 
-\appendix                         %specify appendices
-\include{appendix_A}              %LaTeX source file for Appendix A
-\include{appendix_B}              %LaTeX source file for Appendix B
+% removed appendix, no content
+%\appendix                         %specify appendices
+%\include{appendix_A}              %LaTeX source file for Appendix A
+%\include{appendix_B}              %LaTeX source file for Appendix B
 
 %Bibliography
 \bibliographystyle{apacite}       %-- specified APA style for bibliograpy
